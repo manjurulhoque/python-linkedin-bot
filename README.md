@@ -3,7 +3,7 @@ Increase your popularity on Linkedin.
 
 ## Requirements
 
-LInBot was developed under [Pyhton 3](https://www.python.org/downloads).
+Linkedin Bot was developed using Python 3.
 
 Before you can run the bot, you will need to install a few Python dependencies.
 
