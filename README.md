@@ -33,7 +33,7 @@ Make sure you are in the correct folder and run the following command: `python m
 
 Here, **-n** means how many page you want the bot to scroll down and find people.
 
-After choosing your favorite browser (always chrome, anyone can add another browser), the bot will start finding people and then visiting profiles.
+After choosing your favorite browser (always chrome, anyone can add another browser), the bot will start finding people and then visit each profile.
 
 ## More
 **Tips:** You have to `sleep` the bot few seconds after each profile visit otherwise linkedin will detect the bot and restrict your account.
